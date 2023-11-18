@@ -15,4 +15,4 @@ Create a line plot and a scatter plot.
 
 Calculate correlation and regression.
 
- Final analysis.
+ Submit the final analysis.
