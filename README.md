@@ -1,18 +1,25 @@
-# Matplotlib-Challenge
-In this study, 249 mice who were identified with SCC tumors received treatment with a range of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
+# matplotlib-tumor-drug-analysis
 
-This assignment is broken down into the following tasks:
 
-Prepare the data.
+## Overview:
 
-Generate summary statistics.
+In this project, I performed a visual examination of tumor development in mice subjected to various drug treatments. The study involved 249 mice diagnosed with SCC tumors who received treatment with a range of drug regimens. Over a span of 45 days, tumor development was closely observed and measured. The primary objective of this study was to assess and compare the efficacy of Pymaceuticals’ drug of interest, Capomulin, against other treatment regimens.
 
-Create bar charts and pie charts.
+## Tasks:
 
-Calculate quartiles, find outliers, and create a box plot.
+- Prepare the data.
+- Generate summary statistics.
+- Create bar charts and pie charts.
+- Calculate quartiles, identify outliers, and construct a box plot.
+- Develop a line plot and a scatter plot.
+- Determine correlation and perform regression analysis.
+- Submit the final analysis.
 
-Create a line plot and a scatter plot.
+## Requirements
 
-Calculate correlation and regression.
-
- Submit the final analysis.
+- Python
+- Jupyter Notebook
+- Pandas
+- Matplotlib
+- SciPy
+- NumPy
